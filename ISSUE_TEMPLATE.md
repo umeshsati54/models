@@ -1,4 +1,4 @@
-Please go to Stack Overflow for help and support:
+Please go to Stack Overflow for help and support: 
 
 http://stackoverflow.com/questions/tagged/tensorflow
 
